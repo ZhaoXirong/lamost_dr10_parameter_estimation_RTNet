@@ -1,0 +1,2 @@
+# lamost_dr10_parameter_estimation
+使用深度学习方法估计dr10的恒信参数
